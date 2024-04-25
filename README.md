@@ -4,9 +4,9 @@
 - 💞️ What I'm focusing on ...
 my python skills. Learning variety of technologies like cloud computing, Machine Learning and Data Analytics.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherenshaikh)](https://github.com/anuraghazra/github-readme-stats)
+[![Sheren's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherenshaikh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sherenshaikh)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sheren's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sherenshaikh&show_icons=true&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 sherenshaikh/sherenshaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
